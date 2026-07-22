@@ -1,133 +1,117 @@
-# Project Brief — The Multigenerational AI Playbook
+# Session 4 Project Brief — AI Workshop: Building Your Team's AI Playbook
 
-**Client:** Standard Chartered — Diversity & Inclusion team
-**Format:** One 3-hour in-person group session
-**Facilitator:** Chee Ann
-**Prepared for:** Joan (team lead) and the D&I team
-**Status:** Draft for review
-
----
-
-## The project in one sentence
-
-In three hours, the team produces the first edition of a real, publishable internal asset — **"The Multigenerational AI Playbook: how every generation at Standard Chartered can thrive with AI"** — and learns four or five AI tools beyond Copilot by using them to build it.
-
-## Why this project
-
-Most AI training teaches tools and hopes people find a use for them. This session flips that: the team starts with a deliverable squarely in the D&I team's own domain — generational inclusion — and uses AI tools as the means of producing it. Two things happen at once:
-
-1. **Everyone gets hands-on with AI beyond Copilot** — not watching demos, but producing real output under time pressure.
-2. **The D&I team walks out with a genuine work product** — a playbook they can publish internally, present to leadership, and point to as evidence of their own AI capability.
-
-AI adoption is, at its core, an inclusion issue. Confidence with new technology is unevenly distributed across the workforce, and the gap often falls along lines of exposure and career stage. That makes the D&I team the *right* owner of this topic — this project makes that ownership concrete.
-
-## What the team will produce
-
-Four to five groups, each writing **one chapter of the playbook** — one per generation present in the bank's workforce (Baby Boomers, Gen X, Millennials, Gen Z). Each chapter is a one-pager covering:
-
-- How this generation experienced previous technology shifts at work, and what that means for how they'll approach AI
-- What they're genuinely good at that the AI conversation overlooks
-- Two or three real work tasks, tested live in the session across at least two AI tools, with a verdict on what worked
-- One "start here" recommendation for a colleague of that generation trying AI for the first time
-
-Optional stretch per group: a 3–5 minute **AI-generated podcast segment** of their chapter (via NotebookLM) — reliably the "wow" moment of the day.
-
-The chapters combine into one playbook. The D&I team owns publishing it internally after the session.
-
-## The generational lens — done properly
-
-A caution worth stating up front, because this team will appreciate it: the research consistently shows that **differences within generations are larger than differences between them**. A playbook built on stereotypes ("Boomers fear technology, Gen Z are AI natives") would be bad D&I work and bad learning design.
-
-So the lens we use is not *age* — it is **technology transitions lived through**. Every generation in the room has already survived at least one workplace technology revolution: mainframe to PC, PC to internet, internet to mobile, mobile to AI. Every generation was once the disruptive one. That framing turns the session from "helping the older folks catch up" into "we have all done this before — this time we do it together."
-
-Two design rules keep it honest:
-
-- **Mixed-generation groups, championing a generation that is mostly not their own.** Perspective-taking is the point.
-- **The evidence rule:** nothing goes into a chapter unless a real person in the room said it in an interview, or a cited source backs it. Ten minutes of the session is a "living library" round where groups interview colleagues from the generation they're writing about.
-
-## The AI tools on the table
-
-All browser-based, no installation, free tiers available. Copilot stays in the mix as the "back at your desk" anchor; the others widen the map.
-
-| Tool | Job in this session | Why it's in the room |
-|---|---|---|
-| **Microsoft Copilot** | Summarise interview notes; draft chapter text in Word | The sanctioned everyday tool — the bridge back to normal work |
-| **Claude or ChatGPT** | Thinking partner: roleplay a skeptical colleague from your chapter's generation; stress-test and critique your draft | Shows what a frontier assistant does beyond Office integration |
-| **NotebookLM** (Google) | Drop your notes in, generate an audio "podcast" of your chapter | The wow moment — instantly reframes what AI can do for non-technical people |
-| **Gamma** | Turn bullet points into a designed one-pager or mini-deck in minutes | Visible, polished output fast — great for the showcase |
-| **Perplexity** | Research with citations: what does evidence actually say about generations and technology at work | Teaches "AI with sources" as a habit, feeds the evidence rule |
-| **Canva Magic Studio** *(optional)* | Visuals or a poster for the chapter | For groups that finish early |
-
-**Access and data — two ground rules for a bank environment:**
-
-- Bank laptops may block some of these tools. The fallback plan is personal devices on guest Wi-Fi; participants create free accounts *before* the session day (saves 20 minutes of the workshop).
-- **No confidential or client data goes into any non-approved tool.** All exercises use interview material generated in the room, public sources, and synthetic examples. This is stated in the session and printed on the prompt cards.
-
-## How the three hours run
-
-| Time | Segment | What happens |
-|---|---|---|
-| 0:00 – 0:10 | Opening | "Every generation in this room has survived a technology revolution." Framing: AI adoption as an inclusion issue; today we build, not watch. |
-| 0:10 – 0:35 | Tool safari (live demo) | Facilitator runs **one identical task through four tools** — Copilot, Claude, NotebookLM, Gamma — so the whole room sees the landscape beyond Copilot in 25 minutes. |
-| 0:35 – 0:45 | Project briefing | Groups form (mixed generations), each picks a chapter. Roles assigned: prompt driver, editor, fact-checker, timekeeper/presenter. |
-| 0:45 – 1:00 | Living library | Groups interview colleagues from the generation they're writing about. Raw notes captured — this becomes the AI working material. |
-| 1:00 – 2:05 | Build sprint | Groups test 2–3 real tasks in at least two tools, draft their chapter, optionally generate their podcast segment. Facilitator floats. Coffee stays available — groups break inside the sprint on their own clock. |
-| 2:05 – 2:35 | Showcase | Each group presents its chapter in 6 minutes: what they built, which tool surprised them, what flopped. |
-| 2:35 – 3:00 | Debrief and commitment | One question around the room: "What is one task you will hand to AI this week?" Joan closes with how and when the playbook gets published. |
-
-## Why the design looks like this
-
-For the team's confidence in the format, the learning rationale in four lines:
-
-- **Adults learn by producing, not by being presented to.** Roughly 25 minutes of the 180 are facilitator-led; the rest is hands-on.
-- **The demo comes first, small and fast**, so nobody starts the sprint cold — but it is deliberately too short to become a lecture.
-- **The artifact gives the session an afterlife.** A published playbook keeps working long after the room empties; a slide deck of tool tips does not.
-- **The showcase creates natural accountability and energy** — groups finish because someone is about to see the result.
-
-## What Joan and the team prepare beforehand
-
-- [ ] Confirm device policy for the day: personal laptops/phones acceptable? Guest Wi-Fi available and tested?
-- [ ] Send participants a 2-minute pre-work note: create free accounts on the tool list; answer one question — *"Which AI tools have you tried, and what's one task you wish AI could do for you?"* (answers feed the opening)
-- [ ] Group setup: 4–5 mixed-generation groups of 4–6 people, assigned in advance to save room time
-- [ ] Room: cabaret-style tables, one shared screen, power strips per table
-- [ ] Facilitator provides: printed prompt cards per table, chapter template, run-of-show
-
-## After the session
-
-- Facilitator compiles the chapters into the finished playbook within one week and hands it to the D&I team
-- Joan's team publishes it internally (intranet, Viva Engage, or leadership share-out — their call) within two weeks, while momentum holds
-- Optional follow-up: a 45-minute virtual check-in a month later — what stuck, what stalled, second edition ideas
-
-## How we'll know it worked
-
-- Every participant has hands-on used **at least two tools beyond Copilot**
-- **Four chapters shipped** by the end of the session — visible, finished work
-- One-question pulse before and after: *"How confident are you using AI in your daily work?"* (1–10)
-- The playbook is **published internally within two weeks** — the real success measure, because it turns a training session into a team achievement
-
-## Two alternate shapes (if the team prefers)
-
-**Alternate A — Reverse-Mentoring AI Pairs.** Cross-generation pairs each co-produce a 2-minute "how I'd use AI in my actual job" demo, coached by each other. Lighter logistics, stronger one-to-one connection, but no collective artifact at the end.
-
-**Alternate B — AI Tool Safari with generational pitches.** Groups rotate through tool stations (15 minutes each), then each group pitches one tool to a generational persona. Maximum tool coverage, but shallower hands-on depth and a higher stereotyping risk in the pitches.
-
-The recommendation stands with the playbook: it is the only option where the D&I team's own mandate is the content of the work, and it is the only one that leaves something behind.
+**Program:** AI Readiness Series for Banking Professionals — A Generational Approach to AI Adoption
+**Client:** Standard Chartered Bank (via Evas Educations Sdn Bhd)
+**Session:** 4 of 4 — Physical Workshop | 3 Hours | Max 20 participants
+**Prepared for:** Joan and the D&I team
+**Prepared by:** Chee Ann | AI Trainer & Automation Consultant
+**Status:** Draft for client review | Session date: TBC
 
 ---
 
-## Appendix — starter prompts (printed on table cards)
+## Purpose of this brief
 
-**Roleplay (Claude / ChatGPT):**
-> You are a relationship manager who has worked at an international bank for 28 years. You are excellent at your job and quietly skeptical about AI. I'm going to suggest ways AI could help your work — push back honestly, and tell me what would actually convince you.
+This document specifies the group project for Session 4, as requested at the last alignment meeting, so that the team is clear on what will be produced during the workshop and how the three hours will be used. It follows the scope agreed in the original program proposal (March 2026): Session 4 is the capstone that converts the learning from Sessions 1–3 into a team-level deliverable.
 
-**Research with sources (Perplexity):**
-> What does peer-reviewed evidence say about generational differences in workplace technology adoption? Distinguish findings that replicate from popular claims that don't. Cite sources.
+## Session objectives
 
-**Chapter draft (Copilot / Claude):**
-> Here are our raw interview notes from colleagues of [generation]. Draft a one-page playbook chapter with these sections: how this generation experienced past technology shifts; strengths the AI conversation overlooks; three tested AI use cases with verdicts; one "start here" tip. Keep the tone warm, specific, and free of stereotypes. Flag any claim in the notes that needs a source.
+By the end of the three hours, each group will have:
 
-**Podcast (NotebookLM):**
-> Upload the drafted chapter → Audio Overview → generate. Play 60 seconds at the showcase.
+1. Mapped the recurring tasks in their function that are candidates for AI support, filtered through the data-sensitivity rules covered in Session 2
+2. Prototyped **one** AI-assisted workflow for a selected task, using approved tools, and documented what worked and what did not
+3. Completed a one-page **Team AI Playbook** canvas recording the above
+4. Written an individual 30-day action commitment
 
-**One-pager (Gamma):**
-> Paste the finished chapter → generate as a single-page visual document → pick a clean template → export.
+The consolidated playbook document is compiled by the trainer after the session and returned to the team. It is a working draft for internal use — a starting point the team can refine, not a finished governance document.
+
+## The group project: Team AI Playbook
+
+Participants work in **cross-generational groups of up to 5** (pre-assigned). Each group completes a structured playbook canvas with three sections:
+
+| Canvas section | Content | Produced in |
+|---|---|---|
+| 1. Opportunity map | 5–8 recurring tasks in the group's function, scored on time impact and data sensitivity; one task selected | Exercise 1 |
+| 2. Prototyped workflow | The selected task executed with an approved AI tool: prompt used, output quality, verification step, verdict (adopt / adapt / avoid) | Exercise 2 |
+| 3. Adoption notes | What a colleague needs to reproduce this workflow safely, including the data rules that apply; individual 30-day commitments | Closing block |
+
+The cross-generational group composition is deliberate, and supported by the research below.
+
+## What the research shows: generational patterns in AI adoption
+
+Requested by the team at the last meeting. Figures below are from four large-scale workforce studies (2024–2025); sources are linked.
+
+| Generation | Key findings |
+|---|---|
+| **Gen Z** (18–29) | Highest informal adoption: **85%** bring their own AI tools to work rather than waiting for sanctioned ones ([Microsoft & LinkedIn Work Trend Index, 2024](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part), n=31,000 across 31 countries). **42%** already use generative AI in daily work ([Deloitte Global Gen Z & Millennial Survey, 2025](https://www.deloitte.com/global/en/issues/work/genz-millennial-survey.html), n=23,000+). Highest stated enthusiasm: 55% of workers aged 18–29 welcome AI handling parts of their work, versus 33% of workers over 60 ([Slack Workforce Index](https://slack.com/blog/news/the-workforce-index-june-2024)). However, only **22%** say they thoroughly understand AI agents — high usage, uneven depth ([Salesforce](https://www.salesforce.com/news/stories/daily-ai-workforce-use-growth/)). |
+| **Millennials** (30–44) | The actual power users, contrary to the "youngest = best" assumption: **62%** of employees aged 35–44 report high AI expertise — the highest of any age band ([McKinsey, Superagency in the Workplace, 2025](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work)). 78% bring their own AI tools to work; roughly one in three say they thoroughly understand AI agents — the highest of any generation. |
+| **Gen X** (45–60) | Far closer to the front than the stereotype suggests: **76%** bring their own AI tools to work — three points behind Millennials, nine behind Gen Z. Adoption is selective, favouring efficiency and security-conscious use cases over experimentation. Domain depth makes this group the natural quality filter for AI output — the role the original proposal assigns them. |
+| **Baby Boomers** (60+) | **73%** bring their own AI tools to work — a 12-point spread from Gen Z, not the chasm often assumed. Self-reported expertise is lowest (22% of 65+, McKinsey), indicating the gap is confidence and structured exposure, not willingness. |
+
+**Cross-generational findings that shape this session:**
+
+- **Hidden use is the operative risk.** 52% of AI users are reluctant to admit using AI for important tasks, and 53% worry it makes them look replaceable ([Microsoft & LinkedIn WTI, 2024](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part)). McKinsey finds C-suite leaders estimate employee AI usage at roughly one-third of what employees self-report. In a regulated banking environment, unacknowledged individual AI use is a compliance exposure. A team playbook addresses this directly: it converts private, invisible usage into a shared, governed practice.
+- **The payoff is measurable.** Daily AI users report 64% higher productivity and 81% higher job satisfaction than non-users ([Slack/Salesforce Workforce Index](https://www.salesforce.com/news/stories/daily-ai-workforce-use-growth/)).
+- **Caveat, stated plainly:** these figures describe averages across large samples, most of them US/global rather than Malaysia-specific. Variation within any generation is larger than the differences between generations. The data justifies mixed-generation team design; it does not justify assumptions about any individual in the room, and the session will not label participants by generation.
+
+**Implication for Session 4:** the evidence supports exactly the structure proposed — cross-generational groups that pair rapid adopters with experienced verifiers, working on real tasks under explicit data rules. The generational lens is applied through group composition and role design, not through discussion of generational traits.
+
+## Agenda
+
+| Time | Block | Detail |
+|---|---|---|
+| 0:00 – 0:05 | Welcome and objectives | Session objectives and agenda stated up front. |
+| 0:05 – 0:15 | Recap of Sessions 1–3 | Tool landscape; data-safety rules; workflow method. Structured summary, no discussion round. |
+| 0:15 – 0:30 | Project briefing | Playbook canvas walkthrough; selected research findings above; success criteria for the presentations. |
+| 0:30 – 0:40 | Group setup | Pre-assigned groups convene; roles confirmed (facilitator, prompt operator, verifier, presenter); device and tool-access check. |
+| 0:40 – 1:10 | Exercise 1 — Opportunity mapping | Groups list recurring tasks, score impact and data sensitivity, select one task. Trainer circulates. |
+| 1:10 – 1:20 | Checkpoint and short break | Each group states its selected task (one minute per group). |
+| 1:20 – 2:10 | Exercise 2 — Hands-on lab | Groups prototype the workflow with approved tools using trainer-provided synthetic data; document prompt, output, verification, verdict. |
+| 2:10 – 2:40 | Group presentations | 5 minutes per group, followed by structured peer feedback: one strength, one risk. |
+| 2:40 – 2:55 | 30-day action plans | Each participant writes one specific commitment; recorded on the group canvas. |
+| 2:55 – 3:00 | Close | Certificate distribution; next-step summary. |
+
+Facilitator-led segments total 30 minutes; the remaining 2.5 hours are group work and presentations.
+
+## Tools and compliance
+
+Consistent with the compliance parameters confirmed at the pre-alignment meeting:
+
+| Tier | Tools | Conditions |
+|---|---|---|
+| Bank devices (approved) | Microsoft Copilot (primary), SCGPT | Standard internal usage policies apply |
+| Personal devices only | Shortlist proposed from Sessions 1–3 coverage (e.g. Claude, NotebookLM, Gemini, Perplexity, Gamma) | **Subject to the client's accessibility testing before the session** — final list to be confirmed with Joan and D. No bank, client, or employee data on any external tool under any circumstances. |
+
+**Data rule for all exercises:** groups work only with trainer-provided synthetic datasets and publicly available information. No internal documents, names, figures, or identifiers enter any AI tool during the session. This rule is stated in the briefing and printed on each canvas.
+
+## Scope: what this session does and does not deliver
+
+To keep expectations precise:
+
+- **Delivered:** one completed playbook canvas per group; one prototyped workflow per group; individual 30-day commitments; a consolidated draft playbook document compiled by the trainer within five working days of the session.
+- **Not delivered in three hours:** a finished or bank-approved AI policy document; department-wide rollout plans; proficiency across the full tool landscape; automation builds. These are follow-on work the draft playbook is designed to support.
+
+## Pre-session checklist
+
+**Client (Joan / D):**
+
+- [ ] Confirm session date, venue, and final participant list (max 20)
+- [ ] Confirm group assignments (4 groups of up to 5, mixed seniority and function) — trainer can propose groupings from the namelist
+- [ ] Test accessibility of the proposed external tool links and confirm the approved list
+- [ ] Confirm whether personal devices are permitted in the venue
+
+**Trainer:**
+
+- [ ] Printed playbook canvases, role cards, and data-rule cards per table
+- [ ] Synthetic datasets and task prompt sheets
+- [ ] Recap materials from Sessions 1–3
+- [ ] Certificates
+
+## Success measures
+
+- Each group presents a completed canvas with a tested workflow and a stated verdict
+- Each participant leaves with one written 30-day commitment
+- Optional: one-question confidence pulse (start vs end of session) if the team wishes to capture it
+
+---
+
+*Prepared by Chee Ann via Evas Educations Sdn Bhd. Content follows the program proposal "AI Readiness Series for Banking Professionals" (March 2026); structure and figures updated for the Session 4 briefing.*
