@@ -15,12 +15,12 @@ This document specifies the group project for Session 4, as requested at the las
 
 ## Session objectives
 
-By the end of the three hours, each group will have:
+The three hours are structured for each group to:
 
-1. Mapped the recurring tasks in their function that are candidates for AI support, filtered through the data-sensitivity rules covered in Session 2
-2. Prototyped **one** AI-assisted workflow for a selected task, using approved tools, and documented what worked and what did not
-3. Completed a one-page **Team AI Playbook** canvas recording the above
-4. Written an individual 30-day action commitment
+1. Map the recurring tasks in their function that are candidates for AI support, filtered through the data-sensitivity rules covered in Session 2
+2. Prototype **one** mini AI workflow for a selected task, using approved tools, and document what worked and what did not
+3. Complete a one-page **Team AI Playbook** canvas recording the above
+4. Write an individual 30-day action commitment
 
 The consolidated playbook document is compiled by the trainer after the session and returned to the team. It is a working draft for internal use — a starting point the team can refine, not a finished governance document.
 
@@ -65,12 +65,27 @@ Requested by the team at the last meeting. Figures below are from four large-sca
 | 0:30 – 0:40 | Group setup | Pre-assigned groups convene; roles confirmed (facilitator, prompt operator, verifier, presenter); device and tool-access check. |
 | 0:40 – 1:10 | Exercise 1 — Opportunity mapping | Groups list recurring tasks, score impact and data sensitivity, select one task. Trainer circulates. |
 | 1:10 – 1:20 | Checkpoint and short break | Each group states its selected task (one minute per group). |
-| 1:20 – 2:10 | Exercise 2 — Hands-on lab | Groups prototype the workflow with approved tools using trainer-provided synthetic data; document prompt, output, verification, verdict. |
+| 1:20 – 2:10 | Exercise 2 — Hands-on lab | Groups build a mini AI workflow for their selected business problem with approved tools, using trainer-provided synthetic data; document prompt, output, verification, verdict. |
 | 2:10 – 2:40 | Group presentations | 5 minutes per group, followed by structured peer feedback: one strength, one risk. |
 | 2:40 – 2:55 | 30-day action plans | Each participant writes one specific commitment; recorded on the group canvas. |
-| 2:55 – 3:00 | Close | Certificate distribution; next-step summary. |
+| 2:55 – 3:00 | Close | Closing reflection (one line per group); certificate distribution. |
 
 Facilitator-led segments total 30 minutes; the remaining 2.5 hours are group work and presentations.
+
+## Traceability to the program proposal
+
+Every Session 4 key topic committed in the program proposal (March 2026) is delivered in this session:
+
+| Proposal — Session 4 key topic | Where it appears |
+|---|---|
+| Recap and integration of Sessions 1–3 | Agenda 0:05–0:15 |
+| Team exercise: mapping your department's AI opportunity landscape | Exercise 1 (0:40–1:10); canvas section 1 |
+| Hands-on lab: building a mini AI workflow for a real business problem | Exercise 2 (1:20–2:10); canvas section 2 |
+| Cross-generational team presentations and peer feedback | Presentations (2:10–2:40) |
+| Personal AI action plan: 30-day commitments | Action plans (2:40–2:55); canvas section 3 |
+| Closing reflection and certificate distribution | Close (2:55–3:00) |
+
+The generational research section above is additional material requested by the team at the last alignment meeting; it extends the proposal's "Our Approach: The Generational Lens" section with cited figures and does not change the session scope.
 
 ## Tools and compliance
 
